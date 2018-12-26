@@ -1,0 +1,238 @@
+<tr>
+	<td colspan='9' bgcolor='#E9EACE'><div align='center'>Track 1</div></td>
+</tr>
+<tr> 
+	 <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th>
+	<th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th>
+	<th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>123</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>C v chandrashekara, dharani j, srikrishnateja k, himanshu agarwal, raj arjun, pavan suswaram & m c srividyadhare kateel</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>An effective and simple approach to analyze the dynamic characteristics of cracked beams</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>130</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Varsha vimal & manish chaturvedi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effect of apical thread profile on maximum stress in dental implant</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>139</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>N. Srinivasa rao & dr dibakar rakshit</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effect of sloshing pressures on the wall of a partially filled container</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>141</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dharmraj meena & pankaj sharma</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Free vibration analysis of functionally graded square plate under hygrothermal effect</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>143</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sumit sharma, Pramod kumar & Rakesh chandra</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Experimental and molecular dynamics study of multi-walled carbon nanotube reinforced cement composites</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>150</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Shashi kant thakur, s vaibhav & saurabh kango</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effects of different types of surface textures and grooves on lubrication applications: an experimental review</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>151</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Santosh kumar, Nookla uday sai kumar & Satinder paul singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Evaluation of tribological properties of metallic surfaces using molecular dynamic simulations</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>152</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dinesh singh thakur</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Investigation of wear characterization of aerospace grade al 7075 alloy based ceramic particulate reinforced metal matrix composites</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>153</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dinesh singh thakur</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effect of temperature on the mechanical behavior of aerospace grade al-li alloy based metal matrix composites</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>107</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Shivam Verma, Nitin Sharma & S.K. Tiwari</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Tribological properties of PEEK (Poly Ether Ether Ketone) based composites: A Review</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>108</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ankit Singh, Lakshmikant Dhruw & Satyender Singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Heat transfer and fluid dynamics in a developed and undeveloped wavy channel solar air heater</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>112</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>P.R. Chauhan, K. Kumar & R. Kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Heat transfer and pressure drop characteristics of water flowing through rectangular microchannels</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>124</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>J Singh, K. S. Arora & D. K. Shukla</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Influence of heat input and torch position on the microstructure and mechanical properties of CMT brazed lap joints with Cu-base filler metal</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>158</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Varsha Vimal & Manish Chaturvedi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effect of Apical Thread Profile on Maximum Stress in Dental Implant</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>106</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effect of size on the fracture toughness behaviour of X-80 line pipe steel</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>110</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Trajectory Control of Tendon based Actuation System for Biomimetic Finger using Bond Graph</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>116</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Approximate differentiation of signals using integration through bond graph</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>133</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Comparative Analysis of Incremental Sheet Forming at Ambient and Elevated Temperatures using Finite Element Modelling</div></td>
+</tr><tr>
+	<td colspan='9' bgcolor='#E9EACE'><div align='center'>Track 2</div></td>
+</tr>
+<tr> 
+	 <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th>
+	<th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th>
+	<th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>114</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Mohammad arif & rajeev kukreja</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Heat and mass transfer enhancement during condensation on aluminum surface</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>118</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Monu kumar & amit sharma</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>A parametric study of new var thermal system which utilizing engine exhaust and coolant heat for air-conditioning of an automobile</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>119</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Hari krishnan v</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Hydrogen-the alternate fuel(track 2)</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>120</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Arijit kundu & sudish ray</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>The numerical design of earth-to-air heat exchanger: an extensive study</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>122</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Akash sharma & v k dwivedi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Non-conventional energy scenario in india</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>127</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Adarsh choudhury & raj kumar singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Computational evaluation of cavitating flow around naca 0012 hydrofoil</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>128</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sunil bassi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Numerical study of the effect of preheating of the gaseous fuel in pulse detonation rocket engine</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>129</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sudish ray & arijit kundu</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>An extensive study on the enhanced flow boiling of eco-friendly refrigerants</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>132</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Mohit bansal & abdur rahim</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Numerical solution of turbulent flow in axisymmetric diffuser</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>136</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sushant satputaley & rahul kavishwar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Alkaline fuel cells: a desirable future energy source</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>138</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sushant satputaley, shardul wadalkar & aamos sawale</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Proton exchange membrane fuel cell an alternative source of energy - a review.</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>144</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Keshav gupta & rajeev kukreja</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Comparison of quenching behaviour of heated brass & stainless steel cylindrical rods with water & water-based alumina nanofluids</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>156</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>T. Srinivas</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Refrigeration assisted single stage humidification-dehumidification desalination</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>159</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Archit Shrivastava, Meraj Ahmed & Dr Ravi kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Optimization of Process Parameters in Electrohydraulic Forming using</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>38</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Analyze and Correlate the rheological properties of MWCNT+CuO/engine oil nanolubricant</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>137</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Thermal comfort study for mid-rise naturally ventilated hostel dwellings: A case study in composite climate of India</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>149</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Effect of Moisture Content in Biomass on Performance of Forced Draught Cookstove</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>81</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Numerical Modeling of a Single Droplet Impact on Wet Surface: Investigation of Film Thickness</div></td>
+</tr><tr>
+	<td colspan='9' bgcolor='#E9EACE'><div align='center'>Track 3</div></td>
+</tr>
+<tr> 
+	 <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th>
+	<th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th>
+	<th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>100</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Gazal preet arneja, kamal khanna & rakesh kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>A tlbo based capacity utilization optimization plan in reconfigurable manufacturing system</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>104</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Pankaj shrivastava, shrihar pandey & shivam dangi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Artificial intelligence based modeling and optimization of mrr in edm using superalloy</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>109</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Raman kumar, paramjit singh bilga & sehijpal singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Optimization and modeling of active power consumption for turning operations</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>117</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ashish yadav & sunil agrawal</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Simulated annealing optimization technique applications in solving assembly line balancing problems</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>125</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sujeet kumar & anil kumar das</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Microstructure and hardness evaluation of tig clad layer on pure copper with tic and ni mixed precurssor</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>134</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ranbir singh, harmesh kansal & chitkarnvir singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Minimization of weld decay in ss-304 by flux coated pulsed tig welding</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>135</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ankit thakur, om prakash verma, afzal sikandar & varun sharma</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Modeling of 3-dimensional cutting force and cutter deflection in end milling for machining aisi 1045</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>140</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dr. Uc jha, dr. Rohit sharma, dr. Parveen sharma & mr. Sumit nagar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Impact of implementing condition based monitoring system in industry</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>142</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Chitkarnvir singh, prof. Harmesh kumar & rajesh kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Experimental investigation on diffusion of nb-based stabilizer in ss-304 welds during flux coated gas tungsten arc welding</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>145</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Rajnish saxena</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Experimental investigations of drilling electro chemical discharge machining process</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>147</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Akhil khajuria, raman bedi & rajneesh kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Ebsd analysis of simulated inter-critical heat affected zone of boron modified p91 steel</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>154</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ramratan ramratan & a k choudhary</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>To study soil release & ultraviolet finishes for the sportswear fabrics</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>157</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ankush kesharwani, raman bedi & ashok kumar bagha</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Natural fiber composites for sound reduction: a short review</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>35</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>Prediction of Socio Economic Status Using Aspect Based Learning</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>None</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>None</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>None</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>None</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>None</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>None</div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>None</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>None</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'>None</div></td>
+</tr>

@@ -1,0 +1,784 @@
+
+<tr>
+	<td>1</td>
+	<td>2</td>
+	<td>Hariprasad M.H & Aswin Santhosh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_2.pdf'>Experimental heat transfer analysis of concrete using pcm</a></td>
+</tr>
+
+<tr>
+	<td>2</td>
+	<td>5</td>
+	<td>Raghu S, H M Nanjunda Swamy & Sreenivasa M</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_5.pdf'>Effect of various nano-sized tio2 particles on the mechanical properties of aluminium composites.</a></td>
+</tr>
+
+<tr>
+	<td>3</td>
+	<td>9</td>
+	<td>Umashankar Lath</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_9.pdf'>Development of a data acquisition system for optimizing the vehicle performance and validation of vehicle systems</a></td>
+</tr>
+
+<tr>
+	<td>4</td>
+	<td>10</td>
+	<td>Sanjeev Kumar Gupta, R.C. Mehta</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_10.pdf'>Empirical Formulation of Sequent Depth Ratio and Relative Height of Hydraulic Jump in Sloping Prismatic Channel</a></td>
+</tr>
+
+<tr>
+	<td>5</td>
+	<td>12</td>
+	<td>Sanjeev Kumar, Dr. Nirmal Singh Kalsi & Dr. Dilbag Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_12.pdf'>Effects of minimum quantity of lubrication on cutting force and interface temperature during machining of variable hardened aisi 4340 steel</a></td>
+</tr>
+
+<tr>
+	<td>6</td>
+	<td>13</td>
+	<td>Vikrant Charak & Amit Sinha</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_13.pdf'>Operating function of disc brake: Problem and Solution Approach</a></td>
+</tr>
+
+<tr>
+	<td>7</td>
+	<td>16</td>
+	<td>Ajay Singh Jamwal</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_16.pdf'>Analysis of friction crush welding (fcw) with elliptical tool profile</a></td>
+</tr>
+
+<tr>
+	<td>8</td>
+	<td>17</td>
+	<td>Raju Singh, Soutrik Bose, Vaibhav Mishra & Ipsita Ghosal</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_17.pdf'>Energy recovery from proper recycling and incineration of waste absorbent hygiene products for environmental sustainability</a></td>
+</tr>
+
+<tr>
+	<td>9</td>
+	<td>18</td>
+	<td>Tarun Raj Mahto, D.Hari Hara Swami, Munna Verma & Anjali Meena</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_18.pdf'>Current scenario and potential of wind power in india</a></td>
+</tr>
+
+<tr>
+	<td>10</td>
+	<td>20</td>
+	<td>Arnab Banerjee, Suvanjan Bhattacharyya, Rajat Subhra Bhowmik, Anisur Rahman & G Kumaresan</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_20.pdf'>Numerical study on heat transfer characteristics of an air-cooled mainboard chip of a computer</a></td>
+</tr>
+
+<tr>
+	<td>11</td>
+	<td>21</td>
+	<td>Arka Chattaraj, Soutrik Bose, Deep Mondal & Rishav Rakshit</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_21.pdf'>Material selection for magnetic levitated gps activated car using complex proportional assessment and additive ratio assessment approaches</a></td>
+</tr>
+
+<tr>
+	<td>12</td>
+	<td>22</td>
+	<td>Chitkarnvir Singh, Harmesh Kumar & Rajesh Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_22.pdf'>Experimental investigation on diffusion of nb-based stabilizer in ss-304 welds during flux coated gas tungsten arc welding</a></td>
+</tr>
+
+<tr>
+	<td>13</td>
+	<td>23</td>
+	<td>Sachidananda T G & Chandrashekar Adake</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_23.pdf'>Electric discharge machining of conducting ceramics - a review</a></td>
+</tr>
+
+<tr>
+	<td>14</td>
+	<td>24</td>
+	<td>Murahari Kolli, Shaik Khadhar Basha & Praveen Kumar Ravutla</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_24.pdf'>Optimization of electrical discharge machining of al 7075/b4c/gr composite using rsm method</a></td>
+</tr>
+
+<tr>
+	<td>15</td>
+	<td>31</td>
+	<td>Manpreet Singh & Sarbjit Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_31.pdf'>Effect of process parameters in electrochemical discharge machining (ecdm) process</a></td>
+</tr>
+
+<tr>
+	<td>16</td>
+	<td>32</td>
+	<td>Pankaj Kumar Shrivastava, Mahendra Raj Singh & Shivam Dangi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_32.pdf'>Study of vibration assisted electrical arc machining process using metal matrix composite</a></td>
+</tr>
+
+<tr>
+	<td>17</td>
+	<td>35</td>
+	<td>Neha Gupta & Kiran Jyoti</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_35.pdf'>Prediction of Socio Economic Status Using Aspect Based Learning</a></td>
+</tr>
+
+<tr>
+	<td>18</td>
+	<td>38</td>
+	<td>Ankit Kotia, Isha Srivastava, Sanjay Jagga, Dwesh Kumar Singh & Subrata Kumar Ghosh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_38.pdf'>Analyze and Correlate the rheological properties of MWCNT+CuO/engine oil nanolubricant</a></td>
+</tr>
+
+<tr>
+	<td>19</td>
+	<td>39</td>
+	<td>Mohit Teacher</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_39.pdf'>Effect on micro-hardness and abrasive wear resistance by coating of fe-cr-c-x%b</a></td>
+</tr>
+
+<tr>
+	<td>20</td>
+	<td>44</td>
+	<td>Ankit Kotia, Gaurab Ghosh & Subrata Kr Ghosh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_44.pdf'>Wear modelling and simulation in pin-on-disc tribometer with gear oil based nanolubricants</a></td>
+</tr>
+
+<tr>
+	<td>21</td>
+	<td>49</td>
+	<td>Shivaji Chaudhary, Vikas Goyat & Suresh Verma</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_49.pdf'>Reduction in stress concentration around circular notch using functionally graded material</a></td>
+</tr>
+
+<tr>
+	<td>22</td>
+	<td>50</td>
+	<td>Sukanta Roga</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_50.pdf'>Computational analysis of hypersonic combustor chamber using strut injector at flight mach 6</a></td>
+</tr>
+
+<tr>
+	<td>23</td>
+	<td>51</td>
+	<td>Manoj Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_51.pdf'>Simulation of effect of velocity at the tool interface in Orthogonal Metal Cutting using Continuum Damage Mechanics (CDM) Model</a></td>
+</tr>
+
+<tr>
+	<td>24</td>
+	<td>52</td>
+	<td>Vaibhav Dhar Dwivedi, Pankaj Wahi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_52.pdf'>Influence of strut top mount bushing flexibility on the performance of suspension system</a></td>
+</tr>
+
+<tr>
+	<td>25</td>
+	<td>53</td>
+	<td>Samiksha Moharana & Kallol Khan</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_53.pdf'>Experimental dynamic analysis of laminated composite beam</a></td>
+</tr>
+
+<tr>
+	<td>26</td>
+	<td>54</td>
+	<td>Noorjahan S, Yuvaraj G, Joy Ashwin K, Sairam B & Ilaya Kannan</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_54.pdf'>An analytical approach for the low temperature kinetics of n – butanol mixture</a></td>
+</tr>
+
+<tr>
+	<td>27</td>
+	<td>55</td>
+	<td>Dr. Pravin Nerkar & Mr. Raghav Sambrey</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_55.pdf'>A comparative study on materials selection for disc brakes of automobiles</a></td>
+</tr>
+
+<tr>
+	<td>28</td>
+	<td>57</td>
+	<td>Krishna Anand & Parammasivam K M</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_57.pdf'>Investigations on trenched film cooling parameters using response surface analysis for improved cooling performance</a></td>
+</tr>
+
+<tr>
+	<td>29</td>
+	<td>58</td>
+	<td>Shiv Narayan Nagar & Ss Godara</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_58.pdf'>Analysis of passenger vehicle frontal bumper beam using hypermesh</a></td>
+</tr>
+
+<tr>
+	<td>30</td>
+	<td>59</td>
+	<td>Ritesh Kumar Patel, Gaurab Kumar Ghosh & Soumya Ranjan Pradhan</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_59.pdf'>Fatigue and modal analysis of crankshaft using ansys software</a></td>
+</tr>
+
+<tr>
+	<td>31</td>
+	<td>60</td>
+	<td>Amar Yekane</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_60.pdf'>Casting defect reduction by simulation technique</a></td>
+</tr>
+
+<tr>
+	<td>32</td>
+	<td>61</td>
+	<td>Lakhankumar Zunake & Vivek Kalyankar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_61.pdf'>A critical review on pipeline materials used in petrochemical applications and their welding issues</a></td>
+</tr>
+
+<tr>
+	<td>33</td>
+	<td>62</td>
+	<td>Vaibhav Karwa & Vivek Kalyankar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_62.pdf'>Metal magnetic memory testing: advanced non-destructive testing for ferrous based materials</a></td>
+</tr>
+
+<tr>
+	<td>34</td>
+	<td>66</td>
+	<td>Vaibhav Rastogi & Dr. Nityananda Nandi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_66.pdf'>Numerical analysis of drag force induced due to train motion in a tunnel and its variation with train and tunnel geometries</a></td>
+</tr>
+
+<tr>
+	<td>35</td>
+	<td>68</td>
+	<td>Dwesh K. Singh, Ravinder Kumar & Subhash Chander</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_68.pdf'>Mechanism to enhance thermal performance of refrigeration cycle using nanorefrigerants and nanolubricants – a review</a></td>
+</tr>
+
+<tr>
+	<td>36</td>
+	<td>70</td>
+	<td>Rahul Dev Pandey & Nityananda Nandi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_70.pdf'>Experimental visulisation of viscous fingering in laminar flow plate</a></td>
+</tr>
+
+<tr>
+	<td>37</td>
+	<td>71</td>
+	<td>Mukesh & S.S. Godara</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_71.pdf'>Comparative Study of Mechanical Properties of Luffa-glass or Jute-glass fiber reinforced polymer hybrid composites</a></td>
+</tr>
+
+<tr>
+	<td>38</td>
+	<td>73</td>
+	<td>Venkataramanaiah Darla, Shyam Sunder J & Srinivasa Rao Perla</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_73.pdf'>Parametric analysis of wire electric discharge machining for aviation materials.</a></td>
+</tr>
+
+<tr>
+	<td>39</td>
+	<td>74</td>
+	<td>Sumit Kumar & Pardeep Gupta</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_74.pdf'>Productivity improvements in an indian automotive oem using heijunka, a lean manufacturing approach: a case study</a></td>
+</tr>
+
+<tr>
+	<td>40</td>
+	<td>77</td>
+	<td>Sanjeev Singh, Rajeev Kukreja, Varinder Singh & Sukhdeep Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_77.pdf'>Experimental investigation of condensation heat transfer coefficient with hfc refrigerants r134a & r-404a in horizontal smooth and micro-fin tubes</a></td>
+</tr>
+
+<tr>
+	<td>41</td>
+	<td>78</td>
+	<td>Sanjeev Singh, Rajeev Kukreja, Varinder Singh & Sukhdeep Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_78.pdf'>An experimental heat transfer coefficient during condensation of r-134a and r-410a in horizontal micro-fin tubes</a></td>
+</tr>
+
+<tr>
+	<td>42</td>
+	<td>79</td>
+	<td>Varinder Singh, Rajeev Kukreja, Sanjeev Singh & Sukhdeep Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_79.pdf'>A review on condensation pressure drop and heat transfer in mini/micro-channels</a></td>
+</tr>
+
+<tr>
+	<td>43</td>
+	<td>80</td>
+	<td>Varinder Singh, Rajeev Kukreja, Sanjeev Singh & Sukhdeep Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_80.pdf'>Fabrication methods for microchannels: a review</a></td>
+</tr>
+
+<tr>
+	<td>44</td>
+	<td>81</td>
+	<td>Sukhdeep Singh, Rajeev Kukreja, Sanjeev Singh & Varinder Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_81.pdf'>Numerical Modeling of a Single Droplet Impact on Wet Surface: Investigation of Film Thickness</a></td>
+</tr>
+
+<tr>
+	<td>45</td>
+	<td>82</td>
+	<td>Sukhdeep Singh, Rajeev Kukreja, Sanjeev Singh & Varinder Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_82.pdf'>A comprehensive review on the hybrid nano-fluids for heat transfer applications</a></td>
+</tr>
+
+<tr>
+	<td>46</td>
+	<td>83</td>
+	<td>Puran Chandra Tewari, Nikhil Pannu & Prashant Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_83.pdf'>Computerized maintenance management system for sustainable industries: a critical review</a></td>
+</tr>
+
+<tr>
+	<td>47</td>
+	<td>86</td>
+	<td>Dhirendra Kumar, Sudhansu Das & Pramod Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_86.pdf'>Experimental modeling of photovoltaic cooling system with combined active and passive water cooling</a></td>
+</tr>
+
+<tr>
+	<td>48</td>
+	<td>87</td>
+	<td>Amit Verma, Davinder Singh, Navneet Singh & Jugraj Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_87.pdf'>Influence of octagonal surface texture on hydrodynamic performance of bearing sliders</a></td>
+</tr>
+
+<tr>
+	<td>49</td>
+	<td>88</td>
+	<td>Shravan Yadav, P.N.S Srinivas, Karuna Kumar Gonela & S.B.K Reddy</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_88.pdf'>An investigation on the mechanical properties of hybrid metal matrix composites</a></td>
+</tr>
+
+<tr>
+	<td>50</td>
+	<td>91</td>
+	<td>Abhigyan Bhuyan & Dr. Rajiv Verma</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_91.pdf'>The study of dynamic analysis of rotor bearing system with timoshenko beam elements theory having two discs mounted of a flexible rotor</a></td>
+</tr>
+
+<tr>
+	<td>51</td>
+	<td>94</td>
+	<td>Manohara G D & Chandrashekara C V</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_94.pdf'>Kinematics and inverse dynamic analysis of 6-sps parallel mechanism</a></td>
+</tr>
+
+<tr>
+	<td>52</td>
+	<td>95</td>
+	<td>Dhanush M, Chandrashekara C V, Sridhar K S & Deepak Shetty</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_95.pdf'>Estimation of friction and wear characteristics of polyamide 12 (pa12): an experimental and a finite element modeling</a></td>
+</tr>
+
+<tr>
+	<td>53</td>
+	<td>97</td>
+	<td>Aaditya Jagotra, Mandeep Singh & Sarbjot Singh Sandhu</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_97.pdf'>Studies on multi cylinder compression ignition engine fueled with blends of argemone biodiesel and diesel</a></td>
+</tr>
+
+<tr>
+	<td>54</td>
+	<td>98</td>
+	<td>Richa Pandey & Kumar Satyam</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_98.pdf'>Application of rapid prototyping and additive manufacturing in medical implants</a></td>
+</tr>
+
+<tr>
+	<td>55</td>
+	<td>99</td>
+	<td>Mayur Singh & Dinesh Shukla</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_99.pdf'>Continuous cooling transformation behavior in the cghaz of x80 line pipe steel using a dilatometer.</a></td>
+</tr>
+
+<tr>
+	<td>56</td>
+	<td>100</td>
+	<td>Gazal Preet Arneja, Kamal Khanna & Rakesh Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_100.pdf'>A tlbo based capacity utilization optimization plan in reconfigurable manufacturing system</a></td>
+</tr>
+
+<tr>
+	<td>57</td>
+	<td>101</td>
+	<td>Nitin Thakur, Pramod Kumar & Rabinder Singh Bharj</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_101.pdf'>On the sensitivity of johnson-cook constitutive model</a></td>
+</tr>
+
+<tr>
+	<td>58</td>
+	<td>102</td>
+	<td>Deepak Singh, Sarbjot Singh Sandhu & Anil Kumar Sarma</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_102.pdf'>An experimental investigation of the combustion, performance and emissions characteristics of a ci engine fueled with apricot oil based biodiesel</a></td>
+</tr>
+
+<tr>
+	<td>59</td>
+	<td>103</td>
+	<td>Guravtar Singh Mann, Dr Lakhwinder Pal Singh & Dr Pramod Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_103.pdf'>A peer review of the processing technologies and applications of green composites in a biomedical area</a></td>
+</tr>
+
+<tr>
+	<td>60</td>
+	<td>104</td>
+	<td>Pankaj Shrivastava, Shrihar Pandey & Shivam Dangi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_104.pdf'>Artificial intelligence based modeling and optimization of mrr in edm using superalloy</a></td>
+</tr>
+
+<tr>
+	<td>61</td>
+	<td>105</td>
+	<td>V. Kumar, D. Singh, S. S. Sandhu, N. Sharma & S. K. Tiwari</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_105.pdf'>Investigations on the effects of antioxidant on the oxidation stability of biodiesel</a></td>
+</tr>
+
+<tr>
+	<td>62</td>
+	<td>106</td>
+	<td>Mayur Pratap Singh, Rajneesh Kumar & Dinesh Kumar Shukla</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_106.pdf'>Effect of size on the fracture toughness behaviour of X-80 line pipe steel</a></td>
+</tr>
+
+<tr>
+	<td>63</td>
+	<td>107</td>
+	<td>Shivam Verma, Nitin Sharma & S.K. Tiwari</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_107.pdf'>Tribological properties of PEEK (Poly Ether Ether Ketone) based composites: A Review</a></td>
+</tr>
+
+<tr>
+	<td>64</td>
+	<td>108</td>
+	<td>Ankit Singh, Lakshmikant Dhruw & Satyender Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_108.pdf'>Heat transfer and fluid dynamics in a developed and undeveloped wavy channel solar air heater</a></td>
+</tr>
+
+<tr>
+	<td>65</td>
+	<td>109</td>
+	<td>Raman Kumar, Paramjit Singh Bilga & Sehijpal Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_109.pdf'>Optimization and modeling of active power consumption for turning operations</a></td>
+</tr>
+
+<tr>
+	<td>66</td>
+	<td>110</td>
+	<td>Vijay Saini, Simran Pal Singh, Neeraj Mishra, Anand Vaz & Arshpreet Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_110.pdf'>Trajectory Control of Tendon based Actuation System for Biomimetic Finger using Bond Graph</a></td>
+</tr>
+
+<tr>
+	<td>67</td>
+	<td>112</td>
+	<td>P.R. Chauhan, K. Kumar & R. Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_112.pdf'>Heat transfer and pressure drop characteristics of water flowing through rectangular microchannels</a></td>
+</tr>
+
+<tr>
+	<td>68</td>
+	<td>113</td>
+	<td>Alok Balhwan, Manoj Kumar Kalra & Ashwani Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_113.pdf'>Radial-ply tyre contact area and ground pressure as function of inflation pressure and vehicular load: experimentation and validation of universal characteristics model</a></td>
+</tr>
+
+<tr>
+	<td>69</td>
+	<td>114</td>
+	<td>Mohammad Arif & Rajeev Kukreja</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_114.pdf'>Heat and mass transfer enhancement during condensation on aluminum surface</a></td>
+</tr>
+
+<tr>
+	<td>70</td>
+	<td>115</td>
+	<td>Nivedita Pande, Anagha Choudhari & Jyotsna Gawai</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_115.pdf'>Semi autonomous robot for human rescue operation</a></td>
+</tr>
+
+<tr>
+	<td>71</td>
+	<td>116</td>
+	<td>Vivek Soni, Arvind Kumar Pathak & Anand Vaz</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_116.pdf'>Approximate differentiation of signals using integration through bond graph</a></td>
+</tr>
+
+<tr>
+	<td>72</td>
+	<td>117</td>
+	<td>Ashish Yadav & Sunil Agrawal</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_117.pdf'>Simulated annealing optimization technique applications in solving assembly line balancing problems</a></td>
+</tr>
+
+<tr>
+	<td>73</td>
+	<td>118</td>
+	<td>Monu Kumar & Amit Sharma</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_118.pdf'>A parametric study of new var thermal system which utilizing engine exhaust and coolant heat for air-conditioning of an automobile</a></td>
+</tr>
+
+<tr>
+	<td>74</td>
+	<td>119</td>
+	<td>Hari Krishnan V</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_119.pdf'>Hydrogen-the alternate fuel(track 2)</a></td>
+</tr>
+
+<tr>
+	<td>75</td>
+	<td>120</td>
+	<td>Arijit Kundu & Sudish Ray</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_120.pdf'>The numerical design of earth-to-air heat exchanger: an extensive study</a></td>
+</tr>
+
+<tr>
+	<td>76</td>
+	<td>122</td>
+	<td>Akash Sharma & V K Dwivedi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_122.pdf'>Non-conventional energy scenario in india</a></td>
+</tr>
+
+<tr>
+	<td>77</td>
+	<td>123</td>
+	<td>C V Chandrashekara, Dharani J, Srikrishnateja K, Himanshu Agarwal, Raj Arjun, Pavan Suswaram & M C Srividyadhare Kateel</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_123.pdf'>An effective and simple approach to analyze the dynamic characteristics of cracked beams</a></td>
+</tr>
+
+<tr>
+	<td>78</td>
+	<td>124</td>
+	<td>J Singh, K. S. Arora & D. K. Shukla</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_124.pdf'>Influence of heat input and torch position on the microstructure and mechanical properties of CMT brazed lap joints with Cu-base filler metal</a></td>
+</tr>
+
+<tr>
+	<td>79</td>
+	<td>125</td>
+	<td>Sujeet Kumar & Anil Kumar Das</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_125.pdf'>Microstructure and hardness evaluation of tig clad layer on pure copper with tic and ni mixed precurssor</a></td>
+</tr>
+
+<tr>
+	<td>80</td>
+	<td>126</td>
+	<td>Jitendra Basrani, Pramod Kumar & Manoj Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_126.pdf'>Energy recovered from bicycle with the help of flywheel</a></td>
+</tr>
+
+<tr>
+	<td>81</td>
+	<td>127</td>
+	<td>Adarsh Choudhury & Raj Kumar Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_127.pdf'>Computational evaluation of cavitating flow around naca 0012 hydrofoil</a></td>
+</tr>
+
+<tr>
+	<td>82</td>
+	<td>128</td>
+	<td>Sunil Bassi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_128.pdf'>Numerical study of the effect of preheating of the gaseous fuel in pulse detonation rocket engine</a></td>
+</tr>
+
+<tr>
+	<td>83</td>
+	<td>129</td>
+	<td>Sudish Ray & Arijit Kundu</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_129.pdf'>An extensive study on the enhanced flow boiling of eco-friendly refrigerants</a></td>
+</tr>
+
+<tr>
+	<td>84</td>
+	<td>132</td>
+	<td>Mohit Bansal & Abdur Rahim</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_132.pdf'>Numerical solution of turbulent flow in axisymmetric diffuser</a></td>
+</tr>
+
+<tr>
+	<td>85</td>
+	<td>133</td>
+	<td>Swarit Anand Singh & Puneet Tandon</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_133.pdf'>Comparative Analysis of Incremental Sheet Forming at Ambient and Elevated Temperatures using Finite Element Modelling</a></td>
+</tr>
+
+<tr>
+	<td>86</td>
+	<td>134</td>
+	<td>Ranbir Singh, Harmesh Kansal & Chitkarnvir Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_134.pdf'>Minimization of weld decay in ss-304 by flux coated pulsed tig welding</a></td>
+</tr>
+
+<tr>
+	<td>87</td>
+	<td>135</td>
+	<td>Ankit Thakur, Om Prakash Verma, Afzal Sikandar & Varun Sharma</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_135.pdf'>Modeling of 3-dimensional cutting force and cutter deflection in end milling for machining aisi 1045</a></td>
+</tr>
+
+<tr>
+	<td>88</td>
+	<td>136</td>
+	<td>Sushant Satputaley & Rahul Kavishwar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_136.pdf'>Alkaline fuel cells: a desirable future energy source</a></td>
+</tr>
+
+<tr>
+	<td>89</td>
+	<td>137</td>
+	<td>Shailendra Chaurasiya, Varun Kumar Gupta & Sanjay Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_137.pdf'>Thermal comfort study for mid-rise naturally ventilated hostel dwellings: A case study in composite climate of India</a></td>
+</tr>
+
+<tr>
+	<td>90</td>
+	<td>138</td>
+	<td>Sushant Satputaley, Shardul Wadalkar & Aamos Sawale</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_138.pdf'>Proton exchange membrane fuel cell an alternative source of energy - a review.</a></td>
+</tr>
+
+<tr>
+	<td>91</td>
+	<td>139</td>
+	<td>N. Srinivasa Rao & Dr Dibakar Rakshit</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_139.pdf'>Effect of sloshing pressures on the wall of a partially filled container</a></td>
+</tr>
+
+<tr>
+	<td>92</td>
+	<td>140</td>
+	<td>Dr. Uc Jha, Dr. Rohit Sharma, Dr. Parveen Sharma & Mr. Sumit Nagar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_140.pdf'>Impact of implementing condition based monitoring system in industry</a></td>
+</tr>
+
+<tr>
+	<td>93</td>
+	<td>141</td>
+	<td>Dharmraj Meena & Pankaj Sharma</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_141.pdf'>Free vibration analysis of functionally graded square plate under hygrothermal effect</a></td>
+</tr>
+
+<tr>
+	<td>94</td>
+	<td>142</td>
+	<td>Chitkarnvir Singh, Prof. Harmesh Kumar & Rajesh Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_142.pdf'>Experimental investigation on diffusion of nb-based stabilizer in ss-304 welds during flux coated gas tungsten arc welding</a></td>
+</tr>
+
+<tr>
+	<td>95</td>
+	<td>143</td>
+	<td>Sumit Sharma, Pramod Kumar & Rakesh Chandra</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_143.pdf'>Experimental and molecular dynamics study of multi-walled carbon nanotube reinforced cement composites</a></td>
+</tr>
+
+<tr>
+	<td>96</td>
+	<td>144</td>
+	<td>Keshav Gupta & Rajeev Kukreja</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_144.pdf'>Comparison of quenching behaviour of heated brass & stainless steel cylindrical rods with water & water-based alumina nanofluids</a></td>
+</tr>
+
+<tr>
+	<td>97</td>
+	<td>145</td>
+	<td>Rajnish Saxena</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_145.pdf'>Experimental investigations of drilling electro chemical discharge machining process</a></td>
+</tr>
+
+<tr>
+	<td>98</td>
+	<td>146</td>
+	<td>Anagha Choudhari, Nivedita Pande & Jyotsna Gawai</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_146.pdf'>Smart quill pen</a></td>
+</tr>
+
+<tr>
+	<td>99</td>
+	<td>147</td>
+	<td>Akhil Khajuria, Raman Bedi & Rajneesh Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_147.pdf'>Ebsd analysis of simulated inter-critical heat affected zone of boron modified p91 steel</a></td>
+</tr>
+
+<tr>
+	<td>100</td>
+	<td>148</td>
+	<td>Abhijit Mukhopadhyay & Sayantan De</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_148.pdf'>Study on polymer lubrication in tribological work</a></td>
+</tr>
+
+<tr>
+	<td>101</td>
+	<td>149</td>
+	<td>Babaso Naik, Sangeeta Kohli & M R Ravi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_149.pdf'>Effect of Moisture Content in Biomass on Performance of Forced Draught Cookstove</a></td>
+</tr>
+
+<tr>
+	<td>102</td>
+	<td>150</td>
+	<td>Shashi Kant Thakur, S Vaibhav & Saurabh Kango</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_150.pdf'>Effects of different types of surface textures and grooves on lubrication applications: an experimental review</a></td>
+</tr>
+
+<tr>
+	<td>103</td>
+	<td>151</td>
+	<td>Santosh Kumar, Nookla Uday Sai Kumar & Satinder Paul Singh</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_151.pdf'>Evaluation of tribological properties of metallic surfaces using molecular dynamic simulations</a></td>
+</tr>
+
+<tr>
+	<td>104</td>
+	<td>152</td>
+	<td>Dinesh Singh Thakur</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_152.pdf'>Investigation of wear characterization of aerospace grade al 7075 alloy based ceramic particulate reinforced metal matrix composites</a></td>
+</tr>
+
+<tr>
+	<td>105</td>
+	<td>153</td>
+	<td>Dinesh Singh Thakur</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_153.pdf'>Effect of temperature on the mechanical behavior of aerospace grade al-li alloy based metal matrix composites</a></td>
+</tr>
+
+<tr>
+	<td>106</td>
+	<td>154</td>
+	<td>Ramratan Ramratan & A K Choudhary</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_154.pdf'>To study soil release & ultraviolet finishes for the sportswear fabrics</a></td>
+</tr>
+
+<tr>
+	<td>107</td>
+	<td>155</td>
+	<td>Harwinder Singh & Dr. Arobindo Chatterjee</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_155.pdf'>Potential of peanut shell flour as filler for polymer composite</a></td>
+</tr>
+
+<tr>
+	<td>108</td>
+	<td>156</td>
+	<td>T. Srinivas</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_156.pdf'>Refrigeration assisted single stage humidification-dehumidification desalination</a></td>
+</tr>
+
+<tr>
+	<td>109</td>
+	<td>157</td>
+	<td>Ankush Kesharwani, Raman Bedi & Ashok Kumar Bagha</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_157.pdf'>Natural fiber composites for sound reduction: a short review</a></td>
+</tr>
+
+<tr>
+	<td>110</td>
+	<td>158</td>
+	<td>Varsha Vimal & Manish Chaturvedi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_158.pdf'>Effect of Apical Thread Profile on Maximum Stress in Dental Implant</a></td>
+</tr>
+
+<tr>
+	<td>111</td>
+	<td>159</td>
+	<td>Archit Shrivastava, Meraj Ahmed & Dr Ravi Kumar</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_159.pdf'>Optimization of Process Parameters in Electrohydraulic Forming using</a></td>
+</tr>
+
+<tr>
+	<td>112</td>
+	<td>99999</td>
+	<td>Varsha Vimal & Manish Chaturvedi</td>
+	<td><a target='_blank' href='pdfs/ISME2018_paper_99999.pdf'>Effect of apical thread profile on maximum stress in dental implant</a></td>
+</tr>

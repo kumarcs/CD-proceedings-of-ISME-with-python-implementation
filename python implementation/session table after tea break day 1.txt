@@ -1,0 +1,106 @@
+<tr>
+	<td colspan='9' bgcolor='#E9EACE'><div align='center' class='track'>Track 1 Room:LT-1/04:15 PM-05:15 PM</div></td>
+</tr>
+<tr> 
+	 <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th>
+	<th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th>
+	<th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>59</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Ritesh Kumar Patel, Gaurab Kumar Ghosh & Soumya Ranjan Pradhan</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_59.pdf'>Fatigue and modal analysis of crankshaft using ansys software</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>87</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Amit Verma, Davinder Singh, Navneet Singh & Jugraj Singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_87.pdf'>Influence of octagonal surface texture on hydrodynamic performance of bearing sliders</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>88</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Shravan Yadav, P.N.S Srinivas, Karuna Kumar Gonela & S.B.K Reddy</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_88.pdf'>An investigation on the mechanical properties of hybrid metal matrix composites</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>91</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Abhigyan Bhuyan & Dr. Rajiv Verma</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_91.pdf'>The study of dynamic analysis of rotor bearing system with timoshenko beam elements theory having two discs mounted of a flexible rotor</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>115</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Nivedita Pande, Anagha Choudhari & Jyotsna Gawai</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_115.pdf'>Semi autonomous robot for human rescue operation</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>146</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Anagha Choudhari, Nivedita Pande & Jyotsna Gawai</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_146.pdf'>Smart quill pen</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>148</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Abhijit Mukhopadhyay & Sayantan De</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_148.pdf'>Study on polymer lubrication in tribological work</a></div></td>
+</tr><tr>
+	<td colspan='9' bgcolor='#E9EACE'><div align='center' class='track'>Track 2 Room:LT-2/04:15 PM-05:15 PM</div></td>
+</tr>
+<tr> 
+	 <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th>
+	<th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th>
+	<th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>57</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Krishna Anand & Parammasivam K M</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_57.pdf'>Investigations on trenched film cooling parameters using response surface analysis for improved cooling performance</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>66</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Vaibhav Rastogi & Dr. Nityananda Nandi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_66.pdf'>Numerical analysis of drag force induced due to train motion in a tunnel and its variation with train and tunnel geometries</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>68</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dwesh K. Singh, Ravinder Kumar & Subhash Chander</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_68.pdf'>Mechanism to enhance thermal performance of refrigeration cycle using nanorefrigerants and nanolubricants – a review</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>70</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Rahul Dev Pandey & Nityananda Nandi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_70.pdf'>Experimental visulisation of viscous fingering in laminar flow plate</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>77</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sanjeev Singh, Rajeev Kukreja, Varinder Singh & Sukhdeep Singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_77.pdf'>Experimental investigation of condensation heat transfer coefficient with hfc refrigerants r134a & r-404a in horizontal smooth and micro-fin tubes</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>78</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sanjeev Singh, Rajeev Kukreja, Varinder Singh & Sukhdeep Singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_78.pdf'>An experimental heat transfer coefficient during condensation of r-134a and r-410a in horizontal micro-fin tubes</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>126</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Jitendra Basrani, Pramod Kumar & Manoj Kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_126.pdf'>Energy recovered from bicycle with the help of flywheel</a></div></td>
+</tr><tr>
+	<td colspan='9' bgcolor='#E9EACE'><div align='center' class='track'>Track 3 Room:LT-3/04:15 PM-05:15 PM</div></td>
+</tr>
+<tr> 
+	 <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th>
+	<th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th>
+	<th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>31</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Manpreet Singh & Sarbjit Singh</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_31.pdf'>Effect of process parameters in electrochemical discharge machining (ecdm) process</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>32</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Pankaj Kumar Shrivastava, Mahendra Raj Singh & Shivam Dangi</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_32.pdf'>Study of vibration assisted electrical arc machining process using metal matrix composite</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>39</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Mohit Teacher</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_39.pdf'>Effect on micro-hardness and abrasive wear resistance by coating of fe-cr-c-x%b</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>51</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Manoj Kumar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_51.pdf'>Simulation of effect of velocity at the tool interface in Orthogonal Metal Cutting using Continuum Damage Mechanics (CDM) Model</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>55</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dr. Pravin Nerkar & Mr. Raghav Sambrey</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_55.pdf'>A comparative study on materials selection for disc brakes of automobiles</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>60</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Amar Yekane</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_60.pdf'>Casting defect reduction by simulation technique</a></div></td>
+</tr><tr>
+	<td bgcolor='#E9EACE'><div align='center'>61</div></td>
+	<td colspan='3' bgcolor='#E9EACE'><div align='center'>Lakhankumar Zunake & Vivek Kalyankar</div></td> 
+	 <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_61.pdf'>A critical review on pipeline materials used in petrochemical applications and their welding issues</a></div></td>
+</tr>

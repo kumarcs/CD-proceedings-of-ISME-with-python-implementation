@@ -1,0 +1,100 @@
+<tr>
+<td colspan='9' bgcolor='#E9EACE'><div align='center' class='track'>Track 1 Room:LT-1/12:15 PM-01:15 PM</div></td>
+</tr>
+<tr> 
+ <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th> <th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th><th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>94</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Manohara G D & Chandrashekara C V</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_94.pdf'>Kinematics and inverse dynamic analysis of 6-sps parallel mechanism</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>95</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dhanush M, Chandrashekara C V, Sridhar K S & Deepak Shetty</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_95.pdf'>Estimation of friction and wear characteristics of polyamide 12 (pa12): an experimental and a finite element modeling</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>123</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>C V Chandrashekara, Dharani J, Srikrishnateja K, Himanshu Agarwal, Raj Arjun, Pavan Suswaram & M C Srividyadhare Kateel</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_123.pdf'>An effective and simple approach to analyze the dynamic characteristics of cracked beams</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>103</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Guravtar Singh Mann, Dr Lakhwinder Pal Singh & Dr Pramod Kumar</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_103.pdf'>A peer review of the processing technologies and applications of green composites in a biomedical area</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>113</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Alok Balhwan, Manoj Kumar Kalra & Ashwani Kumar</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_113.pdf'>Radial-ply tyre contact area and ground pressure as function of inflation pressure and vehicular load: experimentation and validation of universal characteristics model</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>58</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Shiv Narayan Nagar & Ss Godara</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_58.pdf'>Analysis of passenger vehicle frontal bumper beam using hypermesh</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>71</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Mukesh & S.S. Godara</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_71.pdf'>Comparative Study of Mechanical Properties of Luffa-glass or Jute-glass fiber reinforced polymer hybrid composites</a></div></td>
+</tr><tr>
+<td colspan='9' bgcolor='#E9EACE'><div align='center' class='track'>Track 2 Room:LT-1/12:15 PM-01:15 PM</div></td>
+</tr>
+<tr> 
+ <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th> <th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th><th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>79</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Varinder Singh, Rajeev Kukreja, Sanjeev Singh & Sukhdeep Singh</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_79.pdf'>A review on condensation pressure drop and heat transfer in mini/micro-channels</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>80</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Varinder Singh, Rajeev Kukreja, Sanjeev Singh & Sukhdeep Singh</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_80.pdf'>Fabrication methods for microchannels: a review</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>82</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sukhdeep Singh, Rajeev Kukreja, Sanjeev Singh & Varinder Singh</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_82.pdf'>A comprehensive review on the hybrid nano-fluids for heat transfer applications</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>86</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Dhirendra Kumar, Sudhansu Das & Pramod Kumar</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_86.pdf'>Experimental modeling of photovoltaic cooling system with combined active and passive water cooling</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>97</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Aaditya Jagotra, Mandeep Singh & Sarbjot Singh Sandhu</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_97.pdf'>Studies on multi cylinder compression ignition engine fueled with blends of argemone biodiesel and diesel</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>102</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Deepak Singh, Sarbjot Singh Sandhu & Anil Kumar Sarma</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_102.pdf'>An experimental investigation of the combustion, performance and emissions characteristics of a ci engine fueled with apricot oil based biodiesel</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>105</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>V. Kumar, D. Singh, S. S. Sandhu, N. Sharma & S. K. Tiwari</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_105.pdf'>Investigations on the effects of antioxidant on the oxidation stability of biodiesel</a></div></td>
+</tr><tr>
+<td colspan='9' bgcolor='#E9EACE'><div align='center' class='track'>Track 3 Room:LT-1/12:15 PM-01:15 PM</div></td>
+</tr>
+<tr> 
+ <th bgcolor='#E9EACE'><div align='center'>Manuscript Id</div></th> <th colspan='3' bgcolor='#E9EACE'><div align='center'>Author's Name</div></th><th colspan='5' bgcolor='#E9EACE'><div align='center'>Topic</div></th>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>62</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Vaibhav Karwa & Vivek Kalyankar</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_62.pdf'>Metal magnetic memory testing: advanced non-destructive testing for ferrous based materials</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>73</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Venkataramanaiah Darla, Shyam Sunder J & Srinivasa Rao Perla</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_73.pdf'>Parametric analysis of wire electric discharge machining for aviation materials.</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>74</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Sumit Kumar & Pardeep Gupta</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_74.pdf'>Productivity improvements in an indian automotive oem using heijunka, a lean manufacturing approach: a case study</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>83</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Puran Chandra Tewari, Nikhil Pannu & Prashant Kumar</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_83.pdf'>Computerized maintenance management system for sustainable industries: a critical review</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>98</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Richa Pandey & Kumar Satyam</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_98.pdf'>Application of rapid prototyping and additive manufacturing in medical implants</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>99</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Mayur Singh & Dinesh Shukla</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_99.pdf'>Continuous cooling transformation behavior in the cghaz of x80 line pipe steel using a dilatometer.</a></div></td>
+</tr><tr>
+<td bgcolor='#E9EACE'><div align='center'>155</div></td>
+<td colspan='3' bgcolor='#E9EACE'><div align='center'>Harwinder Singh & Dr. Arobindo Chatterjee</div></td> 
+ <td colspan='5' bgcolor='#E9EACE'><div align='center'><a target='_blank' href='pdfs/ISME2018_paper_155.pdf'>Potential of peanut shell flour as filler for polymer composite</a></div></td>
+</tr>
